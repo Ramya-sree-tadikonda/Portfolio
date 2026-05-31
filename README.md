@@ -75,15 +75,6 @@
 
 ---
 
-## 📝 Latest Blog Posts (Auto-Updating)
-
-📌 coming soon - automated via GitHub Actions
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -104,21 +95,14 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/RamyaSree">
+  <a href="https://github.com/Ramya-sree-tadikonda">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:your-email@example.com">
+
+  <a href="mailto:ramyasreetadikonda1@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
@@ -129,4 +113,4 @@
 
 > “I build scalable systems, solve real-world problems, and continuously evolve with technology.”
 
-⭐ Always open to collaboration, internships, and full-time opportunities.
+⭐ Actively Looking For internships, and full-time opportunities.
