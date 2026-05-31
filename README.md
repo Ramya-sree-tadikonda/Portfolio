@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🚀 Software Engineer | Full Stack Developer | Cloud Enthusiast | AWS Certified Developer | Azure Fundamental
+  🚀 Software Engineer | Full Stack Developer | Cloud Enthusiast | AWS Certified Developer | Azure Fundamentals
 </p>
 
 <p align="center">
