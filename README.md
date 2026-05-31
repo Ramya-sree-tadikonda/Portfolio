@@ -32,7 +32,7 @@
 **Frontend:** React.js, HTML, CSS  
 **Backend:** Spring Boot, Node.js, Express.js  
 **Databases:** MySQL, MongoDB , postgre SQL  
-**Cloud/DevOps:** AWS, Azure, Docker, CI/CD ,Kubernetes, Terraform 
+**Cloud/DevOps:** AWS, Azure, Docker, CI/CD ,Kubernetes,Terraform 
 **Tools:** Git, GitHub, Postman, VS Code
 **Methodologies:**Agile,Scrum
 
@@ -87,11 +87,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamyaSree&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramya-sree-tadikonda&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamyaSree&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramya-sree-tadikonda&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -99,7 +99,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RamyaSree&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Ramya-sree-tadikonda&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -108,16 +108,6 @@
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🌗 Theme Support
-
-This README supports GitHub Dark/Light mode:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamyaSree&show_icons=true&theme=transparent" />
 </p>
 
 ---
