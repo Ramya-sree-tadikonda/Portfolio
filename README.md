@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  🚀 Software Engineer | Full Stack Developer | Cloud Enthusiast | AWS Certified Developer
+  🚀 Software Engineer | Full Stack Developer | Cloud Enthusiast | AWS Certified Developer | Azure Fundamental
 </p>
 
 <p align="center">
@@ -31,9 +31,10 @@
 **Languages:** Java, JavaScript, Python, SQL  
 **Frontend:** React.js, HTML, CSS  
 **Backend:** Spring Boot, Node.js, Express.js  
-**Databases:** MySQL, MongoDB  
-**Cloud/DevOps:** AWS, Azure, Docker, CI/CD  
-**Tools:** Git, GitHub, Postman, VS Code  
+**Databases:** MySQL, MongoDB , postgre SQL  
+**Cloud/DevOps:** AWS, Azure, Docker, CI/CD ,Kubernetes, Terraform 
+**Tools:** Git, GitHub, Postman, VS Code
+**Methodologies:**Agile,Scrum
 
 ---
 
@@ -126,9 +127,6 @@ This README supports GitHub Dark/Light mode:
 <p align="center">
   <a href="https://github.com/RamyaSree">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
